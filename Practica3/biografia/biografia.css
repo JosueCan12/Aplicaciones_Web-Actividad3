@@ -1,0 +1,84 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    
+}
+
+.foto{
+    width: 200px;
+    border-radius: 5%;
+   object-fit: cover;
+   padding: 10px;
+   border: 2px solid #ccc;
+}
+.contenido{
+    display: flex;
+    margin: 60px;
+    
+}
+.articulo{
+  
+    width: 80%;
+    border-right: 3px solid black;
+}
+.secciones{
+    display: flex;
+    align-items: center;
+    padding: 40px;
+    font-size: 20px;
+}
+.menu-secundario{
+    width: 20%;
+    margin-top: 40px;
+    text-align: center;
+}
+.menu-secundario a {
+    display: block;
+    color: black;
+    margin-bottom: 20px;
+    text-align: center;
+}
+h2{
+    margin: 40px;
+}
+.ima1{
+    width: 100px;
+  
+}
+.imagenface{
+    width: 50px;
+    height: auto;
+    left: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.imageninsta{
+    width: 60px;
+    height: auto;
+    left: 100px;
+    border-radius: 50%;
+}
+.imagentwitter{
+    width: 60px;
+    height: auto;
+    left: 100px;
+    border-radius: 50%;
+}
+body{
+    background-color: burlywood;
+}
+
+
+
+
+
+
+
+
+
